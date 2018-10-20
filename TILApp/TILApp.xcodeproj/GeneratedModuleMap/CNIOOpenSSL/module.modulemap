@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/tigeriv/Documents/Cal Poly 2018-2019/Capstone/vapor/TILApp/.build/checkouts/swift-nio-ssl.git--7125780577170552309/Sources/CNIOOpenSSL/include"
+    export *
+}

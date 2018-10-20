@@ -1,0 +1,4 @@
+module CNIOLinux {
+    umbrella "/Users/tigeriv/Documents/Cal Poly 2018-2019/Capstone/vapor/TILApp/.build/checkouts/swift-nio.git-4188623780433669232/Sources/CNIOLinux/include"
+    export *
+}

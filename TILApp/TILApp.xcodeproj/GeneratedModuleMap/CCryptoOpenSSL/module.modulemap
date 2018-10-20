@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/tigeriv/Documents/Cal Poly 2018-2019/Capstone/vapor/TILApp/.build/checkouts/crypto.git--1658488665285739899/Sources/CCryptoOpenSSL/include"
+    export *
+}
